@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732138858236",
+    "project_id": "auth-ec4b8",
+    "storage_bucket": "auth-ec4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732138858236:android:798effff127c186e8c9979",
+        "android_client_info": {
+          "package_name": "com.example.kare4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732138858236-08hjiktqt0251ukfkvrg6amdm5m28b1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsc7D2GsI3Hh3hUTcP69sP-wD9sJmJ72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732138858236-08hjiktqt0251ukfkvrg6amdm5m28b1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
